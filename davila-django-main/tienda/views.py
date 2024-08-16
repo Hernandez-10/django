@@ -10,6 +10,10 @@ from django.core.mail import BadHeaderError, EmailMessage
 import re
 from .crypt import *
 
+"""
+Aprendi Git
+"""
+
 
 # Importamos todos los modelos de la base de datos
 from .models import *
